@@ -7,13 +7,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 
 .image {
-  max-width: 50%; /* Adjust the maximum width as needed */
-  max-height: 50vh; /* Adjust the maximum height as needed */
+  width: 250px;
+  height: 250px;
   border-radius: 15px;
+  align-items: center;
 }
 
 h3 {
