@@ -7,10 +7,6 @@ text-align: center;
 body {
 background-color: whitesmoke;
 }
-.centered-image {
-  display: block;
-  margin: 0 auto;
-}
 a {
 text-align: center;
 display: grid;
