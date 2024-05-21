@@ -1,35 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.image {
+  max-width: 90%; /* Adjust the maximum width as needed */
+  max-height: 90vh; /* Adjust the maximum height as needed */
+  border-radius: 15px;
+}
+
 h3 {
   text-align: center;
-  margin-bottom: 10px; /* Adjust the margin-bottom value as needed */
-}
-
-p {
-  text-align: center;
-}
-
-body {
-  background-color: whitesmoke;
-  margin: 0; /* Remove default body margin */
-  padding: 0; /* Remove default body padding */
+  margin-bottom: 10px;
 }
 
 a {
   text-align: center;
-  display: grid;
-}
-
-.nigga {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: calc(100vh - 50px); /* Adjust the height as needed */
-}
-
-.size {
-  border-radius: 15px;
-  max-width: 90%; /* Adjust the maximum width as needed */
-  max-height: 90%; /* Adjust the maximum height as needed */
-  width: auto;
-  height: auto;
-  max-height: 100%;
 }
