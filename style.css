@@ -3,11 +3,13 @@ body {
 }
 
 .image {
-  border-radius: 6px;
   display: grid;
   place-items: center;
 }
 
+img {
+  border-radius: 15px
+}
 h3 {
   text-align: center;
 }
