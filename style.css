@@ -3,8 +3,12 @@ body {
 }
 
 .image {
-  display: flex;
+  display: grid;
   place-items: center;
+}
+
+img {
+  border-radius: 15px;
 }
 
 h3 {
