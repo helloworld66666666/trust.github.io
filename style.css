@@ -11,8 +11,8 @@ body {
 }
 
 .image {
-  max-width: 90%; /* Adjust the maximum width as needed */
-  max-height: 90vh; /* Adjust the maximum height as needed */
+  max-width: 50%; /* Adjust the maximum width as needed */
+  max-height: 50vh; /* Adjust the maximum height as needed */
   border-radius: 15px;
 }
 
